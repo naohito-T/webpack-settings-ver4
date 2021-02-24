@@ -1,9 +1,32 @@
-# webpack v4 スタートキット
+# webpack-startkit v4
 
-このプロジェクトをインストールし、プロジェクトをスタートして下さい。
+webpack startup kit.
 
-# 以下対応済み
+# Requirement
 
-・画像最適化
-・css 最適化
-・Js 最適化
+Required webpack v4
+
+See Package.json
+
+# Installation
+
+```bash
+npm install or yarn install
+```
+
+# Usage
+
+```bash
+git clone https://github.com/naohito-T/webpack-settings-ver4
+cd webpack-settings-ver4
+```
+
+# Author
+
+- naohito-T
+- Individual
+- naohito.tanaka0523@gmail.com
+
+# License
+
+"webpack-startkit v4" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
