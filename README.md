@@ -6,7 +6,7 @@ webpack startup kit.
 
 Required webpack v4
 
-See Package.json
+Please see package.json for other module versions.
 
 # Installation
 
